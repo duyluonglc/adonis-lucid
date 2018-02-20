@@ -24,7 +24,7 @@
   "homepage": "https://github.com/adonisjs/adonis-lucid#readme",
   "dependencies": {
     "debug": "^2.6.8",
-    "knex": "^0.13.0",
+    "knex": "^0.14.3",
     "lodash": "^4.17.4",
     "moment": "^2.18.1",
     "node-exceptions": "^2.0.2",
