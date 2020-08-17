@@ -25,7 +25,7 @@
   "dependencies": {
     "debug": "^2.6.9",
     "knex": "^0.13.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.20",
     "moment": "^2.19.3",
     "node-exceptions": "^2.0.2",
     "pluralize": "^5.0.0",
