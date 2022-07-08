@@ -26,7 +26,7 @@
     "debug": "^2.6.9",
     "knex": "^0.13.0",
     "lodash": "^4.17.5",
-    "moment": "^2.19.3",
+    "moment": "^2.29.4",
     "node-exceptions": "^2.0.2",
     "pluralize": "^5.0.0",
     "require-all": "^2.2.0"
